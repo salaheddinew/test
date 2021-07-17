@@ -1,0 +1,101 @@
+html {
+  font-size: 20 px;
+  font-family: "Roboto", sans-serif;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border-radius: 0% 100% 53% 47% / 36% 88% 12% 64%;
+  font-size: large;
+  border: solid rgb(255, 255, 255) 1px;
+}
+h2:hover {
+  background-color: rgb(244, 255, 86);
+  transition: all 0.2sw;
+}
+span {
+  color: #ffffff;
+  font-size: 1rem;
+  background-color: #f2994a;
+  border-radius: 1rem;
+  border: 1rem;
+  margin: 50%;
+  padding: 1rem;
+}
+section button {
+  font-size: 1rem;
+  background-color: #2d9cdb;
+  color: #ffffff;
+  border-radius: 1rem;
+  margin: auto;
+}
+img {
+  color: black;
+  border: solid green;
+  font-size: large;
+  background-color: green;
+  border-radius: 1rem;
+  padding: 1rem;
+}
+.ps {
+  color: #828282;
+  background-color: #e0e0e0;
+}
+.ps:hover {
+  color: #4f4f4f;
+  background-color: #f2f538;
+  box-shadow: 0px 10px 30px rgba(51, 51, 51, 0.1);
+}
+.sections1 {
+  background-color: rgb(238, 238, 199);
+  width: 40%;
+  border: ivory;
+  border-radius: 1rem;
+}
+.open {
+  padding: 1rem;
+}
+.doop {
+  padding: 1rem;
+}
+.ares {
+  width: 50%;
+  padding: 1rem;
+  background-color: rgb(133, 131, 120);
+  border-radius: 37% 36% 39% 41% / 10% 10% 9% 8%;
+  margin: 1rem;
+}
+.gods {
+  padding: 1rem;
+  width: 50%;
+  background-color: rgb(88, 88, 87);
+  border-radius: 37% 36% 39% 41% / 10% 10% 9% 8%;
+}
+.gods1 {
+  padding: 1rem;
+  margin: 1rem;
+  background-color: rgb(88, 88, 87);
+  border-radius: 37% 36% 39% 41% / 10% 10% 9% 8%;
+}
+nav {
+  padding: 1rem;
+}
+.test {
+  height: 1rem;
+  display: inline-block;
+  margin: 1rem;
+  background-color: gold;
+  border-radius: 1rem;
+}
+.resume {
+  width: 1rem;
+  margin: 1rem;
+}
+.pad {
+  height: 1rem;
+  width: 1rem;
+  display: inline;
+}
+.bomb {
+  display: flex;
+}
